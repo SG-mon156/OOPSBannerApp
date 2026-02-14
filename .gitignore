@@ -14,3 +14,6 @@ bin/
 out/
 build/
 dist/
+=======
+# Compiled Class File
+*.class
