@@ -15,12 +15,14 @@ public class OOPSBannerApp {
         System.out.println();
 
         // UC2 - Banner
-        System.out.println(" *****    *****    *****   ***** ");
-        System.out.println("*     *  *     *  *     *  *     *");
-        System.out.println("*     *  *     *  *     *  *     *");
-        System.out.println("*     *  *****    *****    ***** ");
-        System.out.println("*     *  *        *        *      ");
-        System.out.println("*     *  *        *        *      ");
-        System.out.println(" *****    *        *        *      ");
+        System.out.println("   ***       ***    ******      *****  ");
+        System.out.println(" **   **   **   **  **    **   **      ");
+        System.out.println("**     ** **     ** **     ** **        ");
+        System.out.println("**     ** **     ** **    **   **       ");
+        System.out.println("**     ** **     ** ******      ***      ");
+        System.out.println("**     ** **     ** **             **    ");
+        System.out.println("**     ** **     ** **               **   ");
+        System.out.println(" **   **   **   **  **              **    ");
+        System.out.println("   ***       ***    **        *****        ");
     }
 }
